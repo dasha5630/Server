@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lift(server)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lift(server).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
